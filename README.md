@@ -4,7 +4,7 @@
 最近一年多，大邓之前一直使用自己diy的[浏览器启动页](https://hidadeng.github.io/homepage/), 最初是被该启动页的关键词搜索功能所惊艳。但用久了人总会喜新厌旧，但是每次打开浏览器，呈现的网址链接效果太繁杂了。而且大多数都是僵尸链接，平常很少点击的，反而常用的链接都设置成了快捷键。最近整理了网上的一些资源，增加了**快捷关键词搜索方法**
 
 - [old_startpage_demo](https://hidadeng.github.io/homepage/)
-- 
+
 ![](img/old_homepage.png)
 
 
